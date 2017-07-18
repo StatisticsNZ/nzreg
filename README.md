@@ -1,4 +1,4 @@
-# repository_template
+# nzreg
 
 Description of repository contents 
 
