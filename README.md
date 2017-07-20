@@ -1,8 +1,6 @@
 # nzreg
 
-Code to be uploaded soon! 
-
-
+The New Zealand data in package **nzreg** are for methodological and software development, and not for statistical analysis. The data are not necessarily up-to-date, and contain imputed and perturbed values.  For statistics on New Zealand, please see the [Stats NZ website](http://www.stats.govt.nz).
 
 ---
 __Copyright and Licensing__
